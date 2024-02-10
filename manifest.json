@@ -1,9 +1,5 @@
 {
-    "name": "ExampleMod",
-    "version_number": "0.0.1",
-    "website_url": "",
-    "description": "Example mod",
-    "dependencies": [
-        "northstar-Northstar-1.8.0"
-    ]
+    "name": "wildcrd.eek!legion",
+    "version_number": "1.0.0",
+    "description": "the legion! (eek!)",
 }
